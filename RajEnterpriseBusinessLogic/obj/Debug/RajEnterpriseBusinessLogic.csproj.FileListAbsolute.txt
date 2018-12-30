@@ -1,0 +1,5 @@
+C:\Users\Samim\documents\visual studio 2015\Projects\RajEnterprise\RajEnterpriseBusinessLogic\bin\Debug\RajEnterpriseBusinessLogic.dll
+C:\Users\Samim\documents\visual studio 2015\Projects\RajEnterprise\RajEnterpriseBusinessLogic\bin\Debug\RajEnterpriseBusinessLogic.pdb
+C:\Users\Samim\documents\visual studio 2015\Projects\RajEnterprise\RajEnterpriseBusinessLogic\obj\Debug\RajEnterpriseBusinessLogic.dll
+C:\Users\Samim\documents\visual studio 2015\Projects\RajEnterprise\RajEnterpriseBusinessLogic\obj\Debug\RajEnterpriseBusinessLogic.pdb
+C:\Users\Samim\documents\visual studio 2015\Projects\RajEnterprise\RajEnterpriseBusinessLogic\obj\Debug\RajEnterpriseBusinessLogic.csprojResolveAssemblyReference.cache
